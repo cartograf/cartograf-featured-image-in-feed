@@ -1,4 +1,4 @@
-=== Cartograf Cookie filter ===
+=== Cartograf Featured-image in Feed ===
 
 Contributors: versvs
 Donate link: http://www.versvs.net
