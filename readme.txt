@@ -41,9 +41,8 @@ Yes, absolutely, it is indeed.
 
 = 1.0 =
 * First stable release.
-* Included settings page.
-* Included slug exceptions.
-* Both timeout and scrollout acceptance of the cookies are now considered.
+* New thumbnail is generated, independent of any other thumbnail already present in the theme.
+* Featured image is included in the feed, along with a link to the original site. We plan to make this link optional, when a few more options are available in the plugin.
 
 
 == Upgrade Notice ==
