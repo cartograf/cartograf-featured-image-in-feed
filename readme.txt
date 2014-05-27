@@ -5,7 +5,7 @@ Donate link: http://www.versvs.net
 Tags: featured image, feed, rss, subscribers, newsletter, mailchimp, engagement,
 Requires at least: 3.5
 Tested up to: 3.9.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -38,6 +38,10 @@ Yes, absolutely, it is indeed.
 1. Soon to be available screenshot.
 
 == Changelog ==
+
+= 1.0.1 =
+* Rename of plugin & files.
+* Now the message within the backlink inserted with the featured image reads the name of the site from database. The message has been translated into english.
 
 = 1.0 =
 * First stable release.
