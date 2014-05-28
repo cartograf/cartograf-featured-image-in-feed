@@ -56,7 +56,7 @@
 
 	function cg_fi_main_config_render($attr){
 		echo '<div style="display: block; float: right; max-width: 20%; width: 350px; padding: 10px; position: fixed; right: 0; background: #fff; text-align: center;" class="options right"><img src="' . plugins_url('cartograf-cookie-filter') . '/logo-cartograf.png' . '" /><p>';
-		_e('The development of <a href="http://www.cartograf.net/plugin-wordpress-cumplir-ley-de-cookies-espana?utm_source=opcionesplugin&utm_medium=pluginwordpress&utm_campaign=cookiefilter">this plugin</a> is sponsored by <a target="_blank" href="http://www.cartograf.net/?utm_source=opcionesplugin&utm_medium=pluginwordpress&utm_campaign=featuredimage">Cartograf</a>');
+		_e('The development of <a href="http://www.cartograf.net/plugin-de-wordpress-para-anadir-imagenes-destacadas-tus-feeds-rss?utm_source=opcionesplugin&utm_medium=pluginwordpress&utm_campaign=cookiefilter">this plugin</a> is sponsored by <a target="_blank" href="http://www.cartograf.net/?utm_source=opcionesplugin&utm_medium=pluginwordpress&utm_campaign=featuredimage">Cartograf</a>');
 		echo '</p></div>
 				<div class="options left">';
 		_e('Remember, if you think we can improve this plugin or have any suggestion, please<br />
