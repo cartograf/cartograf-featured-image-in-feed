@@ -2,7 +2,7 @@
 /*
 Plugin Name: Cartograf Featured Image in Feed
 Description: Add the featured image to your WordPress site feeds, so that you can enhance the reading experience of your subscribers.
-Version: 1.1.0
+Version: 1.1.2
 License: GPL
 Author: Cartograf | Jose Alcántara
 Author URI: http://www.cartograf.net
