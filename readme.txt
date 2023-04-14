@@ -5,7 +5,7 @@ Donate link: http://www.versvs.net
 Tags: featured image, feed, rss, subscribers, newsletter, mailchimp, engagement,
 Requires at least: 3.5
 Tested up to: 6.2.0
-Stable tag: 1.1.4
+Stable tag: 1.2.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -38,6 +38,10 @@ Yes, absolutely, it is indeed.
 1. Soon to be available screenshot.
 
 == Changelog ==
+
+= 1.2.0 =
+* Tested with WordPress 6.2.0
+* Versions in Git and WordPress SVN repo are now aligned
 
 = 1.1.0 =
 * Added the option to activate and deactivate the backlink to the original content wrapping the featured image inside the feed.
