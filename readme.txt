@@ -4,8 +4,8 @@ Contributors: versvs
 Donate link: http://www.versvs.net
 Tags: featured image, feed, rss, subscribers, newsletter, mailchimp, engagement,
 Requires at least: 3.5
-Tested up to: 4.0.0
-Stable tag: 1.1.3
+Tested up to: 6.2.0
+Stable tag: 1.1.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
